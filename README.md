@@ -1,2 +1,4 @@
 # GroupProject
-Group Project attempted in second year group of 5
+Tasker
+
+This was a 2nd year group project assignment for a tasking application written in Java with a web interface. 
